@@ -1,3 +1,0 @@
-﻿  main.cpp
-c:\users\dheeraj\documents\visualstudioprojects\chatservice\serverxd\chatserver\chatserver\main.cpp(10): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  chatServer.vcxproj -> C:\Users\Dheeraj\Documents\VisualStudioProjects\ChatService\ServerXD\chatServer\Debug\chatServer.exe
